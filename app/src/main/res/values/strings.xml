@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Users Application</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+</resources>
